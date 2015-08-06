@@ -1,0 +1,44 @@
+/*********************************/
+#navcontainer ul
+{
+	padding: .2em 0;
+	margin: 0;
+	list-style-type: none;
+/*background-color: #003666;/*loffa blue*/
+/*background-color: red;*/
+	/*background-image:url(../images/denise/Blue_bar.jpg);*/
+	height:25px;
+	width: 100%;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+    border-bottom: 15px;/* solid #003666;*/
+    border-top: 5px;/* solid #003666;*/
+	position: absolute;
+    bottom: 0;
+}
+
+#navlist li { display: inline; }
+
+#navlist li a
+{
+padding-bottom: 5px;
+text-decoration: none;
+color: #FFF;
+padding: .2em 1em;
+outline: 0;
+}
+
+#navlist li a:hover
+{
+    text-decoration: underline;
+}
+
+#navlist li a:focus {
+	text-decoration: underline;
+}
+
+#navlist li a:active {
+    text-decoration: underline;
+}

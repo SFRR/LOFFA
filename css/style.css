@@ -1,0 +1,55 @@
+#container {	width: 1024px;    margin: auto;	position: absolute;	top: 0; left: 0; bottom: 0; right: 0;	font-family: Arial;	font-size: 14px;		padding: 0px 20px; 	/*	top and bottom paddings are 0px	right and left paddings are 20px	*/
+}
+/********************** Header ***************************/#header_img {	height: 156px;	position: relative;	background-image:url(../images/Top_Banner_New.jpg);	/*background-color: red;*/	background-repeat: no-repeat;	border-bottom: 2px solid white;/* Needed */}
+#header {
+	height: 156px;
+	position: relative;
+	background-repeat: no-repeat;	border-bottom: 2px;/* Needed */
+}#leftside_banner{	margin-top: 15px;	width: 160px;	height: 130px;	cursor: pointer; 	cursor: hand;	/*background-image:url(../images/loffa_logo_162_175.png);*/	/*background-image:url(../images/loffa_logo_140_152.png);*/	/*background-image:url(../images/loffa_logo_138_150.png);/	/*background-image:url(../images/loffa_logo.png);*/	background-repeat: no-repeat;	position:absolute;}#rightside_banner{    float:right;    width:100px;	height:22px;	margin-top: 80px;	margin-right: 50px;}
+/********************** Content ***************************/
+#content {	/*estepdu if you need to move the content down*/
+	padding-top: 0px;
+	background-color: white;
+	width:100%;
+}
+
+h1{	font-weight: bold;
+	font-family: Arial;	font-size: 16px;	        margin:0px;        padding-top:-10px;		  padding-bottom:10px;
+}
+#left {
+	float:left;
+	width:65%;
+	height:100%;
+	/*margin-left:27px;*/	/*background-color: yellow;*/}
+/*#left a{color:#28556b;}
+#left a.active{color:green;}
+#left a:hover{color:#c77e0c;}*/
+
+
+/*iframe for the social media links*/
+#right {
+	float:right;
+	height:100%;  /*height of the right side steve*/
+			/*background-color: blue; /*Testing*/
+	/*margin-right:35px;*/	width: 30%;		text-align:left;
+}iframe{  width: 100%;}/*All the table styling */th {	font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;	color: #4f6b72;	border-right: 1px solid #c9cdf1;	border-bottom: 1px solid #c9cdf1;	border-top: 1px solid #c9cdf1;	letter-spacing: 2px;	text-transform: uppercase;	text-align: left;	padding: 0px 6px 6px 6px;/*  padding: top right bottom left;*/	background: #e4e7f8;}td {	border-right: 1px solid #c9cdf1;	border-bottom: 1px solid #c9cdf1;	background: #fff;		text-align: left;	padding: 6px 6px 6px 12px;}
+/********************** Footer ***************************/
+#footerline {
+	clear:both;		/* Needed */	padding: 10px 0px; 	/*	top and bottom paddings are 10px	right and left paddings are 0px	*/
+}
+#footer {	background-image:url(../images/Blue_Bar.jpg);
+	width:100%;
+	font-family: Arial;	font-size: 14px;	font-weight: bold;	text-align: center;	color: white;	/* Needed */	padding: 5px 0px; 	/*	top and bottom paddings are 5px	right and left paddings are 0px	*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
