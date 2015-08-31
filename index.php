@@ -40,13 +40,12 @@
 		
 		<div id="navcontainer">
 			<ul id="navlist">
-				<li><a id="home" href="javascript:void(0);"onclick="window.location.reload();"><span>Home</span></a>
-				<li><a id="events" href="javascript:void(0);"onclick="getWebpage('./content/events.php');" href="#"><span>Events</span></a></li>
-				<li><a id="web_links" href="javascript:void(0);"onclick="getWebpage('./content/webLinks.html');" href="#"><span>Web Links</span></a></li>
-				<li><a id="faq" href="javascript:void(0);"onclick="getWebpage('./content/faq.html'); " href="#"><span>FAQ</span></a></li>
-				<li><a id="assistance_dogs" href="javascript:void(0);"onclick="getWebpage('./content/dogs.html');" href="#"><span>Assistance Dogs</span></a></li>
+				<li><a id="home" href="javascript:void(0);"onclick="window.location.reload();"><span>Home</span></a>  <font color="white">|</font> 
+				<li><a id="events" href="javascript:void(0);"onclick="getWebpage('./content/events.php');" href="#"><span>Events</span></a></li> <font color="white">|</font> 
+				<li><a id="assistance_dogs" href="javascript:void(0);"onclick="getWebpage('./content/dogs.html');" href="#"><span>Assistance Dogs</span></a></li> <font color="white">|</font> 
+				<li><a id="web_links" href="javascript:void(0);"onclick="getWebpage('./content/webLinks.html');" href="#"><span>Web Links</span></a></li> <font color="white">|</font> 
+				<li><a id="faq" href="javascript:void(0);"onclick="getWebpage('./content/faq.html'); " href="#"><span>FAQ</span></a></li> <font color="white">|</font> 
 				<li><a id="contacts" href="javascript:void(0);"onclick="getWebpage('./content/contacts.html');" href="#"><span>Contacts</span></a></li>
-				
 			</ul>
 		</div>
 		</div>
@@ -70,30 +69,30 @@
 		<div id="left">
 		
 			<h1>Welcome to LOFFA</h1>
-	<p>Laois Offaly Families for Autism is a local support group by parents for parents and families of children and adults with Autism Spectrum Disorder (ASD).</p>
-	<p>We actively campaign to raise awareness of autism in our area and seek health, educational and support services that are appropriate to meet the needs of 
-	our children and adults with Autism.
-	</p>
-	<p>Our group provides subsidised access to private a Speech & Language Therapist, Occupational Therapist and Art Therapist for those families who are forced, 
-	through lack of services from the HSE to obtain private therapies for their children.   
-	</p>
-	<p>In addition, we also run Junior Play dates, 10 Pin Bowling sessions and Art & Drama Groups for our children and their siblings to give them the opportunity 
-	to meet and socialise with other children like themselves.
-	</p>
-	<p>We currently run a monthly Autism Friendly Cinema Club, venues alternating between <a target="_blank" href="http://www.odeoncinemas.ie/cinemas/portlaoise/203/">
-	Odeon Cinema in Portlaoise</a> and <a target="_blank" href="http://www.imccinemas.ie/home.asp?idcinema=23">Tullamore IMC (formally Omniplex).</a>
-	</p>
-	<p>Our group comes under the umbrella of the <a target="_blank" title="IAA website" href="http://www.autismireland.ie">Irish Autism Action </a> (IAA), we have been 
-	in existence since 2001 and currently support over 250 families but our membership in the Laois and Offaly areas continues to rise.
-	</p>
-	<p>Meetings are held on the <b>1<sup>st</sup> Tuesday</b> of every month alternating between <a target="_blank" title="Tullamore Court Hotel Website" href="http://www.tullamorecourthotel.ie/location">
-	Tullamore Court Hotel</a> and <a target="_blank" title="The Heritage Hotel Portlaoise Website" href="http://www.theheritagehotel.com">The Heritage Hotel</a> Portlaoise.
-	</p>
+				<p><b>Laois Offaly Families for Autism</b> is a local support group by parents for parents and families of children and adults with Autism Spectrum Disorder (ASD).</p>
+				<p>We actively campaign to raise awareness of autism in our area and seek health, educational and support services that are appropriate to meet the needs of 
+				our children and adults with Autism.
+				</p>
+				<p>Our group provides subsidised access to a private Speech & Language Therapist, Occupational Therapist and Art Therapist for those families who are forced, 
+				through lack of services from the HSE to obtain private therapies for their children.   
+				</p>
+				<p>In addition, we also run Junior Play dates, 10 Pin Bowling sessions and Art & Drama Groups for our children and their siblings to give them the opportunity 
+				to meet and socialise with other children like themselves.
+				</p>
+				<p>We currently run a monthly Autism Friendly Cinema Club, venues alternating between <a target="_blank" href="http://www.odeoncinemas.ie/cinemas/portlaoise/203/">
+				Odeon Cinema in Portlaoise</a> and <a target="_blank" href="http://www.imccinemas.ie/home.asp?idcinema=23">Tullamore IMC (formally Omniplex).</a>
+				</p>
+				<p>Our group comes under the umbrella of the <a target="_blank" title="IAA website" href="http://www.autismireland.ie">Irish Autism Action </a> (IAA), we have been 
+				in existence since 2001 and currently support over 250 families but our membership in the Laois and Offaly areas continues to rise.
+				</p>
+				<p>Meetings are held on the <b>1<sup>st</sup> Tuesday</b> of every month alternating between <a target="_blank" title="Tullamore Court Hotel Website" href="http://www.tullamorecourthotel.ie/location">
+				Tullamore Court Hotel</a> and <a target="_blank" title="The Heritage Hotel Portlaoise Website" href="http://www.theheritagehotel.com">The Heritage Hotel</a> Portlaoise.
+				</p>
 	
 	
 	<table>
 		<tr>
-			<th colspan="3"> <p align="center">LOFFA publications</p> </th>
+			<th colspan="3"> <p align="center">LOFFA Publications</p></th>
 		</tr>
 		<tr>
 			<td><p>LOFFA 2011 Report on Profile of Members Needs & Service Provision</p>

@@ -4,19 +4,20 @@
 	padding: .2em 0;
 	margin: 0;
 	list-style-type: none;
-/*background-color: #003666;/*loffa blue*/
-/*background-color: red;*/
+	/*background-color: #003666;/*loffa blue*/
+	/*background-color: red;*/
 	/*background-image:url(../images/denise/Blue_bar.jpg);*/
 	height:25px;
 	width: 100%;
 	font-family: Arial;
 	font-size: 16px;
 	font-weight: bold;
-	text-align: center;
+	text-indent: 155px;
     border-bottom: 15px;/* solid #003666;*/
     border-top: 5px;/* solid #003666;*/
 	position: absolute;
     bottom: 0;
+
 }
 
 #navlist li { display: inline; }

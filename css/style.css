@@ -14,17 +14,17 @@
 }
 
 h1{	font-weight: bold;
-	font-family: Arial;	font-size: 16px;	        margin:0px;        padding-top:-10px;		  padding-bottom:10px;
+	font-family: Arial;	font-size: 16px;	margin-left: 20px;    padding-top:-10px;	padding-bottom:10px;	color: #003466;
 }
 #left {
 	float:left;
 	width:65%;
-	height:100%;
+	height:100%;	
 	/*margin-left:27px;*/	/*background-color: yellow;*/}
 /*#left a{color:#28556b;}
 #left a.active{color:green;}
 #left a:hover{color:#c77e0c;}*/
-
+p{	margin-left: 20px;}
 
 /*iframe for the social media links*/
 #right {
@@ -32,7 +32,7 @@ h1{	font-weight: bold;
 	height:100%;  /*height of the right side steve*/
 			/*background-color: blue; /*Testing*/
 	/*margin-right:35px;*/	width: 30%;		text-align:left;
-}iframe{  width: 100%;}/*All the table styling */th {	font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;	color: #4f6b72;	border-right: 1px solid #c9cdf1;	border-bottom: 1px solid #c9cdf1;	border-top: 1px solid #c9cdf1;	letter-spacing: 2px;	text-transform: uppercase;	text-align: left;	padding: 0px 6px 6px 6px;/*  padding: top right bottom left;*/	background: #e4e7f8;}td {	border-right: 1px solid #c9cdf1;	border-bottom: 1px solid #c9cdf1;	background: #fff;		text-align: left;	padding: 6px 6px 6px 12px;}
+}iframe{  width: 100%;}/*All the table styling */table, th, td {    border: 1px solid #4c7093;    border-collapse: collapse;	text-align: left;	padding: 6px 6px 6px 12px;	margin-left: 20px;}th {	font-family: Arial;	font-size: 11px;	background: #d9e1e8;	color: #003466;}th {	font-family: Arial;	font-size: 14px;}#headline-fill-in {	color: #003466;	background: #d9e1e8;	border: 1px solid #4c7093;	width: 100%;	text-indent: 20px;	font-family: Arial;	font-size: 16px;	font-weight: bold;	padding: 10px 0px; 	/*	top and bottom paddings are 10px	right and left paddings are 0px	*/}
 /********************** Footer ***************************/
 #footerline {
 	clear:both;		/* Needed */	padding: 10px 0px; 	/*	top and bottom paddings are 10px	right and left paddings are 0px	*/
