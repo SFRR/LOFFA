@@ -5,16 +5,15 @@
 	<?php include '../utils/nextMeetings.php'; ?>
 	<div id="headline-fill-in">LOFFA Monthly Meeting</div>
 	<p>Monthly meeting of support group for parents of children and adults with autism.</p>
-	<!-- <?php echo getNextLoffaMeetingInformtion(); ?> -->
-	<p><b>Meetings resumes again in September</b></p>
+	<?php echo getNextLoffaMeetingInformtion(); ?> 
 	<br>
 
 	<div id="headline-fill-in">Coffee Morning</div>
 	<p><b>Date:</b> Every Friday morning</p>
 	<p><b>Time:</b> 10:00am</p>
-	<!-- <p><b>Location:</b><a target="_blank" href="http://www.midwaym7.com/">O'Briens Coffee Shop, Midway Service Area, Abbeyleix Rd, Portlaoise  (M7 Jct 17)</a></p>
-	<p>Great chance to meet some other LOFFA mums & dads for a chat over coffee</p>  -->
-	<p><b>Coffee Mornings resume again in September</b></p>
+	<p><b>Location:</b><a target="_blank" href="http://www.midwaym7.com/"> O'Briens Coffee Shop</a>, Midway Service Area, Abbeyleix Rd, Portlaoise  (M7 Jct 17)</p>
+	<p>Great chance to meet some other LOFFA mums & dads for a chat over coffee</p>  
+	<!-- <p><b>Coffee Mornings resume again in September</b></p>  -->
 	<br>
 
 	<div id="headline-fill-in">Junior Play Date</div> 

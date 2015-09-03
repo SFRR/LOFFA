@@ -58,7 +58,7 @@ $meetingDate=getNextLoffaMeetingDate(0);
 	/* Date of the meeting*/
 	echo "<p><b>Date: </b>".$meetingDate->format( 'l, F jS, Y' )."</p>";	
 	/* Location will either be Portloise or Tullamore depending on the month*/
-	echo "<p><b>Time:</b> 8:15pm</p>";
+	/*echo "<p><b>Time:</b> 8:15pm</p>";*/
 	echo "<p><b>Next meeting location: </b>";
 	if($meetingDate->format( 'm' ) % 2 == 0){
 		echo " <a href='http://www.theheritagehotel.com/' target='_blank'>Portlaoise Heritage Hotel</a> "."</p>";
