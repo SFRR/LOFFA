@@ -45,7 +45,8 @@
 				<li><a id="assistance_dogs" href="javascript:void(0);"onclick="getWebpage('./content/dogs.html');" href="#"><span>Assistance Dogs</span></a></li> <font color="white">|</font> 
 				<li><a id="web_links" href="javascript:void(0);"onclick="getWebpage('./content/webLinks.html');" href="#"><span>Web Links</span></a></li> <font color="white">|</font> 
 				<li><a id="faq" href="javascript:void(0);"onclick="getWebpage('./content/faq.html'); " href="#"><span>FAQ</span></a></li> <font color="white">|</font> 
-				<li><a id="contacts" href="javascript:void(0);"onclick="getWebpage('./content/contacts.html');" href="#"><span>Contacts</span></a></li>
+				<li><a id="contacts" href="javascript:void(0);"onclick="getWebpage('./content/contacts.html');" href="#"><span>Contacts</span></a></li></li> <font color="white">|</font> 
+				<li><a id="membership" href="javascript:void(0);"onclick="getWebpage('./content/membership.html');" href="#"><span>Membership</span></a></li>
 			</ul>
 		</div>
 		</div>
